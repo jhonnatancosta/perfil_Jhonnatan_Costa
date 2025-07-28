@@ -7,7 +7,7 @@ Perfil público do Jhonnatan Costa no GitHub
 Tenho mais de 5 anos de experiência em tecnologia da informação, com foco em desenvolvimento de software e segurança cibernética.  
 Sou apaixonado por criar soluções eficientes e seguras utilizando várias linguagens de programação e frameworks modernos.
 
----
+
 
 ## 🛠️ Tecnologias & Ferramentas
 
@@ -19,9 +19,9 @@ Sou apaixonado por criar soluções eficientes e seguras utilizando várias ling
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 **Frameworks e Ferramentas:**  
-React, Node.js, Git, Docker, Wireshark, VSCode, Kali Linux
+##React, Node.js, Git, Docker, Wireshark, VSCode, Kali Linux
 
----
+
 
 ## 🌟 Projetos em Destaque
 
@@ -31,7 +31,7 @@ Sistema completo para gerenciamento de pedidos e vendas em restaurantes, com int
 ### 🌐 [Meu Portfólio Pessoal](https://jhonnatancosta.github.io/portfolio-JHONNATANCOSTA/index.html)  
 Site pessoal onde apresento meus projetos, habilidades e experiências.
 
----
+
 
 ## 📈 Minhas Contribuições no GitHub
 
@@ -39,7 +39,7 @@ Site pessoal onde apresento meus projetos, habilidades e experiências.
 
 ![snake gif](https://github.com/jhonnatancosta/jhonnatancosta/blob/output/github-contribution-grid-snake.svg)
 
----
+
 
 ## 📫 Como Me Encontrar
 
@@ -50,9 +50,17 @@ Site pessoal onde apresento meus projetos, habilidades e experiências.
 - [GitHub: jhonnatancosta](https://github.com/jhonnatancosta)
 - [Portfólio Online](https://jhonnatancosta.github.io/portfolio-JHONNATANCOSTA/index.html)
 
----
+## 🐍 Jogo a Cobrinha Realista uma demostração do puro poder 
+## HTML5 Canvas e JavaScript
+
+[![Miniatura do Jogo da Cobrinha](https://github.com/jhonnatancosta/perfil_Jhonnatan_Costa/raw/main/cobrinha.gif)](https://jhonnatancosta.github.io/Jogue-a-Cobrinha-Realista/)
+
+Um jogo da cobrinha com visual realista e movimentação automática para perseguir a comida.<br>
+Feito com HTML5 Canvas e JavaScript puro.<br>
+👉 [Jogar agora!](https://jhonnatancosta.github.io/Jogue-a-Cobrinha-Realista/)
+
 
 ### 🙏 Obrigado por visitar meu perfil!
 
-> Estou sempre aberto a parcerias, freelas ou oportunidades de trabalho. Vamos conversar!
+##> Estou sempre aberto a parcerias, freelas ou oportunidades de trabalho. Vamos conversar!
 
