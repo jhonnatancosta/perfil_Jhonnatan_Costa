@@ -1,18 +1,19 @@
+
 name: Generate Snake Game 🐍
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Executa todos os dias à meia-noite UTC
+    - cron: "0 0 * * *" # Executes every day at midnight UTC
   workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: ⬇️ Checkout do repositório
+      - name: ⬇️ Checkout the repository
         uses: actions/checkout@v3
 
-      - name: 🐍 Gerar Snake SVG
+      - name: 🐍 Generate Snake SVG
         uses: Platane/snk@v3
         with:
           github_user_name: jhonnatancosta
@@ -20,7 +21,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: 📤 Publicar na branch `output`
+      - name: 📤 Publish to `output` branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
