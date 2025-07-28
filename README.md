@@ -53,8 +53,6 @@ Site pessoal onde apresento meus projetos, habilidades e experiências.
 ## 🐍 Jogo a Cobrinha Realista uma demostração do puro poder 
 ## HTML5 Canvas e JavaScript
 
-[![Miniatura do Jogo da Cobrinha](https://github.com/jhonnatancosta/perfil_Jhonnatan_Costa/raw/main/cobrinha.gif)](https://jhonnatancosta.github.io/Jogue-a-Cobrinha-Realista/)
-
 Um jogo da cobrinha com visual realista e movimentação automática para perseguir a comida.<br>
 Feito com HTML5 Canvas e JavaScript puro.<br>
 👉 [Jogar agora!](https://jhonnatancosta.github.io/Jogue-a-Cobrinha-Realista/)
