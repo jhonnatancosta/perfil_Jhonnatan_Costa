@@ -56,4 +56,3 @@ Site pessoal onde apresento meus projetos, habilidades e experiências.
 
 > Estou sempre aberto a parcerias, freelas ou oportunidades de trabalho. Vamos conversar!
 
-![snake gif](https://github.com/jhonnatancosta/jhonnatancosta/blob/output/github-contribution-grid-snake.svg)
