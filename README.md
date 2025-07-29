@@ -35,12 +35,6 @@ Site pessoal onde apresento meus projetos, habilidades e experiências.
 
 ## 📈 Minhas Contribuições no GitHub
 
-> Abaixo, uma animação do gráfico de commits (cobra animada) 🐍
-
-
-
-
-
 ## 📫 Como Me Encontrar
 
 - [LinkedIn: Jhonnatan Costa](https://www.linkedin.com/in/jhonnatan-costa-programador)
