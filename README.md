@@ -37,7 +37,7 @@ Site pessoal onde apresento meus projetos, habilidades e experiências.
 
 > Abaixo, uma animação do gráfico de commits (cobra animada) 🐍
 
-![snake gif](https://github.com/jhonnatancosta/jhonnatancosta/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
